@@ -1,0 +1,80 @@
+{
+  "version": "2.1",
+  "environment": "headless Chromium; local file mode",
+  "tests": [
+    {
+      "name": "load_index.html",
+      "pass": true
+    },
+    {
+      "name": "load_wiki.html",
+      "pass": true
+    },
+    {
+      "name": "load_slides.html",
+      "pass": true
+    },
+    {
+      "name": "load_workflow.html",
+      "pass": true
+    },
+    {
+      "name": "initial_single_slide",
+      "pass": true
+    },
+    {
+      "name": "next_button",
+      "pass": true
+    },
+    {
+      "name": "right_arrow",
+      "pass": true
+    },
+    {
+      "name": "end_key",
+      "pass": true
+    },
+    {
+      "name": "home_key",
+      "pass": true
+    },
+    {
+      "name": "speaker_notes",
+      "pass": true
+    },
+    {
+      "name": "overview_14_slides",
+      "pass": true
+    },
+    {
+      "name": "quiz_feedback",
+      "pass": true
+    },
+    {
+      "name": "desktop_all_slides_no_horizontal_overflow",
+      "pass": true
+    },
+    {
+      "name": "print_all_slides",
+      "pass": true
+    },
+    {
+      "name": "search_filters",
+      "pass": true
+    },
+    {
+      "name": "empty_search_message",
+      "pass": true
+    },
+    {
+      "name": "search_reset",
+      "pass": true
+    },
+    {
+      "name": "mobile_entry_pages_no_horizontal_overflow",
+      "pass": true
+    }
+  ],
+  "page_errors": [],
+  "public_deployment": "not tested"
+}
